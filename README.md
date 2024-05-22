@@ -87,7 +87,6 @@ The frontend of BlogHub is built with React and React Router for a dynamic and r
 
 To get started with BlogHub, clone the repository and install the dependencies for each part of the project.
 
-```sh
 git clone https://github.com/yourusername/bloghub.git
 cd bloghub
 
