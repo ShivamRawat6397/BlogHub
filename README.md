@@ -11,7 +11,6 @@ BlogHub is a modern and scalable blogging platform built with a robust backend, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 
